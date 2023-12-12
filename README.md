@@ -19,7 +19,7 @@ Copy the SSH key from github.com/seitseman-api. Clone the SSH locally.
 Open the webpage in Google Chrome.
 
 Note down your activities for the day by the hour and save each one.
-![image]
+![image](https://github.com/oliverstamper/seitseman-api/blob/9a3ce7fe0c99aa05bf02f2d5dd4c3ced2c407348/Screenshot%202023-12-12%20122713.png)
 
 
 Check in throughout the day, using the colour code to pinpoint the time and activity (red is present, grey past and green future).

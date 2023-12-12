@@ -23,6 +23,7 @@ Note down your activities for the day by the hour and save each one.
 
 
 Check in throughout the day, using the colour code to pinpoint the time and activity (red is present, grey past and green future).
+![image](https://github.com/oliverstamper/seitseman-api/blob/8f40cc7d105c7190279d5e79298fbbce6e4ca3ab/Screenshot%202023-12-12%20122901.png)
 
 
 ## Credits
